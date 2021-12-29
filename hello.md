@@ -12,3 +12,9 @@
 
 
 
+
+   ##compile 1
+   
+   -there is no changes in head branch
+   -the case is started from the head
+   -can compile it easily = fast-forward 
