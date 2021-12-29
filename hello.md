@@ -18,3 +18,8 @@
    -there is no changes in head branch
    -the case is started from the head
    -can compile it easily = fast-forward 
+
+   ## compile 2
+   -if the additional commit is maked in the head branch
+   -the real compile is needed
+   -no complict is the best, but do nit afraid it
