@@ -7,6 +7,7 @@
 - commit: save
 - push : upload commit on the site
 
+
 ## back to file
    back to file to the latest commit
 
@@ -23,3 +24,10 @@
    -if the additional commit is maked in the head branch
    -the real compile is needed
    -no complict is the best, but do nit afraid it
+
+
+## hello world
+
+-hi, this is hayoun
+-im 22years old
+-im majoring ir transportation.
